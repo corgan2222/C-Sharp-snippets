@@ -1,0 +1,16 @@
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\bin\Debug\net5.0\03 c# kill process.exe
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\bin\Debug\net5.0\03 c# kill process.deps.json
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\bin\Debug\net5.0\03 c# kill process.runtimeconfig.json
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\bin\Debug\net5.0\03 c# kill process.runtimeconfig.dev.json
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\bin\Debug\net5.0\03 c# kill process.dll
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\bin\Debug\net5.0\ref\03 c# kill process.dll
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\bin\Debug\net5.0\03 c# kill process.pdb
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\03 c# kill process.csproj.AssemblyReference.cache
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\03 c# kill process.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\03 c# kill process.AssemblyInfoInputs.cache
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\03 c# kill process.AssemblyInfo.cs
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\03 c# kill process.csproj.CoreCompileInputs.cache
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\03 c# kill process.dll
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\ref\03 c# kill process.dll
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\03 c# kill process.pdb
+D:\Coding\git-corgan\C-Sharp-snippets\03 c# kill process\obj\Debug\net5.0\03 c# kill process.genruntimeconfig.cache
