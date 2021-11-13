@@ -1,0 +1,16 @@
+D:\Coding\c#\02 c# start process\bin\Debug\net5.0\02 c# start process.exe
+D:\Coding\c#\02 c# start process\bin\Debug\net5.0\02 c# start process.deps.json
+D:\Coding\c#\02 c# start process\bin\Debug\net5.0\02 c# start process.runtimeconfig.json
+D:\Coding\c#\02 c# start process\bin\Debug\net5.0\02 c# start process.runtimeconfig.dev.json
+D:\Coding\c#\02 c# start process\bin\Debug\net5.0\02 c# start process.dll
+D:\Coding\c#\02 c# start process\bin\Debug\net5.0\ref\02 c# start process.dll
+D:\Coding\c#\02 c# start process\bin\Debug\net5.0\02 c# start process.pdb
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\02 c# start process.csproj.AssemblyReference.cache
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\02 c# start process.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\02 c# start process.AssemblyInfoInputs.cache
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\02 c# start process.AssemblyInfo.cs
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\02 c# start process.csproj.CoreCompileInputs.cache
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\02 c# start process.dll
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\ref\02 c# start process.dll
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\02 c# start process.pdb
+D:\Coding\c#\02 c# start process\obj\Debug\net5.0\02 c# start process.genruntimeconfig.cache

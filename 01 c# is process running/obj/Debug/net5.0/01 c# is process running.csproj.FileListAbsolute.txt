@@ -1,0 +1,16 @@
+D:\Coding\c#\01 c# is process running\bin\Debug\net5.0\01 c# is process running.exe
+D:\Coding\c#\01 c# is process running\bin\Debug\net5.0\01 c# is process running.deps.json
+D:\Coding\c#\01 c# is process running\bin\Debug\net5.0\01 c# is process running.runtimeconfig.json
+D:\Coding\c#\01 c# is process running\bin\Debug\net5.0\01 c# is process running.runtimeconfig.dev.json
+D:\Coding\c#\01 c# is process running\bin\Debug\net5.0\01 c# is process running.dll
+D:\Coding\c#\01 c# is process running\bin\Debug\net5.0\ref\01 c# is process running.dll
+D:\Coding\c#\01 c# is process running\bin\Debug\net5.0\01 c# is process running.pdb
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\01 c# is process running.csproj.AssemblyReference.cache
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\01 c# is process running.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\01 c# is process running.AssemblyInfoInputs.cache
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\01 c# is process running.AssemblyInfo.cs
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\01 c# is process running.csproj.CoreCompileInputs.cache
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\01 c# is process running.dll
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\ref\01 c# is process running.dll
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\01 c# is process running.pdb
+D:\Coding\c#\01 c# is process running\obj\Debug\net5.0\01 c# is process running.genruntimeconfig.cache
