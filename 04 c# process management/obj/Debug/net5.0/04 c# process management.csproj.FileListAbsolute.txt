@@ -1,0 +1,16 @@
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\bin\Debug\net5.0\04 c# process management.exe
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\bin\Debug\net5.0\04 c# process management.deps.json
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\bin\Debug\net5.0\04 c# process management.runtimeconfig.json
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\bin\Debug\net5.0\04 c# process management.runtimeconfig.dev.json
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\bin\Debug\net5.0\04 c# process management.dll
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\bin\Debug\net5.0\ref\04 c# process management.dll
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\bin\Debug\net5.0\04 c# process management.pdb
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\04 c# process management.csproj.AssemblyReference.cache
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\04 c# process management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\04 c# process management.AssemblyInfoInputs.cache
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\04 c# process management.AssemblyInfo.cs
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\04 c# process management.csproj.CoreCompileInputs.cache
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\04 c# process management.dll
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\ref\04 c# process management.dll
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\04 c# process management.pdb
+D:\Coding\git-corgan\C-Sharp-snippets\04 c# process management\obj\Debug\net5.0\04 c# process management.genruntimeconfig.cache
