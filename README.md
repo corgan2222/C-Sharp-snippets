@@ -1,6 +1,6 @@
 # C-Sharp snippets
 
- just randon C# Scripts
+ just randon C# Scripts i wrote for some automations
  
  # Running c# with VS Studio Code
  
